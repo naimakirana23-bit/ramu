@@ -1,0 +1,6 @@
+{
+  "name": "Ramu — Perpustakaan Digital & Kafe",
+  "description": "Ruang Meramu Kopi, Ide, dan Ilmu. Perpustakaan digital kafe dengan koleksi e-book, komik digital, arsip visual Dublin Core, dan pameran digital tematik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
